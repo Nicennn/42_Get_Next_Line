@@ -10,7 +10,8 @@ Any other function will come from my own libc ([libft](libft)).
 Nothing will happen if a directory or an empty file is passed in argument, memory leaks are prohibited.
 ## Usage
 Run: `./test_gnl file_to_read`  
-If you prefer, you can run `sh make.sh` to recompile a new executable and change the BUFF_SIZE beforehand in [get_next_line.h](get_next_line.h) to try the code out.  
+If you prefer, you can run `sh make.sh` to recompile a new executable and change the BUFF_SIZE beforehand in [get_next_line.h](get_next_line.h) to try the code out.
+
 If the file was valid, your output should look something like this:
 
 <img src="./imgs/Example.png" width=600 />
